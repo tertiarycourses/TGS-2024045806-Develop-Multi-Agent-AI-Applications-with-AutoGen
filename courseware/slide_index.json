@@ -1,0 +1,22 @@
+{
+ "admin": 2,
+ "download": 8,
+ "briefing": 13,
+ "assessment_front": 14,
+ "practice_exam": 17,
+ "core": 19,
+ "topic1": 39,
+ "lab1": 49,
+ "lab2": 54,
+ "lab3": 59,
+ "topic2": 65,
+ "lab4": 77,
+ "lab5": 82,
+ "topic3": 88,
+ "lab6": 100,
+ "lab7": 105,
+ "lab8": 110,
+ "close": 116,
+ "assessment_end": 121,
+ "total": 124
+}

@@ -1,0 +1,59 @@
+{
+  "_comment": "Synthetic support tickets for the WSQ AutoGen course (TGS-2024045806). No real data.",
+  "tickets": [
+    {
+      "id": "TT-1001",
+      "priority": "P1",
+      "status": "open",
+      "subject": "Production e-commerce site returns HTTP 500",
+      "requester": "meiling.tan@techtrend.example",
+      "opened": "2026-08-27T09:12:00+08:00",
+      "description": "Checkout page returns HTTP 500 for all customers since 09:05. Suspected failed deployment."
+    },
+    {
+      "id": "TT-1002",
+      "priority": "P3",
+      "status": "open",
+      "subject": "Request VPN access for new contractor",
+      "requester": "rajesh.kumar@techtrend.example",
+      "opened": "2026-08-27T10:40:00+08:00",
+      "description": "Contractor starting Monday needs VPN access to the staging environment for 60 days."
+    },
+    {
+      "id": "TT-1003",
+      "priority": "P2",
+      "status": "in_progress",
+      "subject": "Finance shared drive missing yesterday's files",
+      "requester": "sarah.lim@techtrend.example",
+      "opened": "2026-08-27T11:05:00+08:00",
+      "description": "Files saved yesterday afternoon are missing from the finance share. Restore from backup requested."
+    },
+    {
+      "id": "TT-1004",
+      "priority": "P4",
+      "status": "open",
+      "subject": "Install diagramming software",
+      "requester": "daniel.ong@techtrend.example",
+      "opened": "2026-08-26T15:30:00+08:00",
+      "description": "Requesting approval to install a diagramming tool from the software catalogue."
+    },
+    {
+      "id": "TT-1005",
+      "priority": "P2",
+      "status": "open",
+      "subject": "Account locked after failed sign-ins",
+      "requester": "aisha.rahman@techtrend.example",
+      "opened": "2026-08-28T08:20:00+08:00",
+      "description": "User locked out of e-mail and VPN after 5 failed attempts. Needs urgent unlock for a client call."
+    },
+    {
+      "id": "TT-1006",
+      "priority": "P3",
+      "status": "resolved",
+      "subject": "New starter onboarding for 1 September",
+      "requester": "hr@techtrend.example",
+      "opened": "2026-08-24T09:00:00+08:00",
+      "description": "Provision laptop, e-mail, VPN and CRM access for a new marketing executive starting 1 September."
+    }
+  ]
+}

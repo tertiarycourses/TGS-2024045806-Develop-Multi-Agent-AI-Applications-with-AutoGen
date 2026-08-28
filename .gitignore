@@ -1,0 +1,18 @@
+# Confidential — assessments are Drive-only, never pushed to GitHub
+assessment/
+
+# Secrets
+.env
+labs/.env
+
+# Reference material, originals and private build tooling (not published)
+reference/
+.claude/
+.codex/
+
+# Python / build junk
+__pycache__/
+.venv/
+labs/data/chroma_db/
+.DS_Store
+.playwright-mcp/

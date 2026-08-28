@@ -1,0 +1,18 @@
+[project]
+name = "autogen-course-labs"
+version = "9.0.0"
+description = "Hands-on labs for WSQ Develop Multi-Agent AI Applications with AutoGen (TGS-2024045806)"
+requires-python = ">=3.10"
+dependencies = [
+    "autogen-agentchat>=0.7.1",
+    "autogen-ext[openai]>=0.7.1",
+    "openai>=1.60.0",
+    "python-dotenv>=1.0.1",
+    "chromadb>=0.5.20",
+    "pydantic>=2.8.0",
+    "requests>=2.32.0",
+]
+
+# AutoGen Studio pins older autogen-ext versions, so it is NOT a project
+# dependency — launch it in its own environment when needed:
+#   uv run --with autogenstudio autogenstudio ui
