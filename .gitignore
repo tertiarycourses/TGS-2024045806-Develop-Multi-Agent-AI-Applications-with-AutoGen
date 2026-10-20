@@ -16,3 +16,10 @@ __pycache__/
 labs/data/chroma_db/
 .DS_Store
 .playwright-mcp/
+
+# Facilitator Guide + Assessment Plan embed the answer keys and rubric:
+# trainer-only (Google Drive + TMS), never GitHub
+**/FG_*
+**/FG-*
+**/Assessment_Plan_*
+**/AP-*

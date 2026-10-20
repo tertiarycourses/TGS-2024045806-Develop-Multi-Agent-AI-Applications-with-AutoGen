@@ -8,7 +8,7 @@ Build, ground and orchestrate teams of AI agents with Microsoft AutoGen — from
 | Programme | WSQ (Singapore Workforce Skills Qualifications) |
 | Duration | 2 days · 16 hours (including 2 hours of assessment) |
 | Registration | [View course details and register](https://www.tertiarycourses.com.sg/wsq-develop-multi-agent-ai-applications-with-autogen.html) |
-| Funding | Up to 70% WSQ funding subsidy. Eligibility and terms apply — see the course page for current details. |
+| Funding | Up to 50% SkillsFuture course fee funding, or up to 70% for eligible SME employees and Singapore Citizens aged 40 and above. Eligibility and terms apply — see the course page for current details. |
 
 ## About the course
 
